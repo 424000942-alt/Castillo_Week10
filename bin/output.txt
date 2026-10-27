@@ -1,0 +1,16 @@
+=== SHOWROOM DEMO ===
+CarBrand (Toyota): Built for reliability and efficiency!
+--------------------------------------------------
+LuxuryCarBrand (Rolls-Royce): Rated 9.9/10 for unmatched comfort and elegance!
+Inspecting Rolls-Royce: Testing active noise cancellation and premium leather seating.
+--------------------------------------------------
+SportsCarBrand (Ferrari): High performance engineered for 340 km/h top speeds!
+Inspecting Ferrari: Checking carbon ceramic brakes and turbocharger pressure.
+--------------------------------------------------
+LuxuryCarBrand (BMW): Rated 8.8/10 for unmatched comfort and elegance!
+Inspecting BMW: Testing active noise cancellation and premium leather seating.
+--------------------------------------------------
+
+=== MIXIN DEMO ===
+Riding e-Glide Pro scooter smoothly through city streets.
+Charging: Connected to a high-speed EV charging station.
